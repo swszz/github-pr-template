@@ -20,3 +20,5 @@
 3. check Require review from Code Owners  
 4. (Optional) Branch name pattern을 *로 설정
     - 필요할 경우 특정 패턴을 입력해도 무방
+  
+5. zzz
